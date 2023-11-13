@@ -3,6 +3,7 @@
 Welcome to my academic research profile. I upload all kinds of analytical reports, published papers, and packages in this repository. 
 
 Here is my professional profile on our lab website: https://brucedesmarais.com/lab.html
+
 Here is my professional profile on departmental website: https://polisci.la.psu.edu/people/lingyu-jack-fuca/
 
 I am currently a PhD student at the political science department at Penn State. I am applying for my dual-title PhD for social data analytics too. I am indeed a quant person, which means that my ways of understanding and interacting with this world are very mathematical. My substantive research agenda is on political risk prediction and analysis, which requires me to keep studying in comparative politics, international politics, and political economy.
