@@ -1,3 +1,5 @@
+Sain be, gemu! Bi urgun i sarkū be tuwaliyafi, gūnin i sinde niyalma sarkū de baicara gamara wecilefi. Uttu tarahana wajiha filese be deribumbi.
+
 Сайн байцгаана уу? Өнөөдөр бид нийгмийн сүлжээг судлах гэж байна.
 Энд бидэнд хэрэгтэй бүх файлууд байна.
 
